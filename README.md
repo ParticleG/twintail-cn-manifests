@@ -12,15 +12,28 @@ TwintailTeam does not plan to support Chinese game clients, so this repository
 is maintained separately. Report problems with these manifests here, not to
 TwintailTeam.
 
-## Usage
+## Status
 
-Add this repository in TwintailLauncher as a third-party repository:
+Stock TwintailLauncher 2.5.3 cannot use third-party game repositories yet:
+
+- No screen calls the backend's `add_repository` command, so a repository
+  cannot be added from the launcher.
+- The "update third-party repositories" setting is stored but never read, so
+  added repositories are never fetched again.
+- With a second game repository present, building the game list throws a
+  `TypeError` in the frontend and no games are listed, official ones included.
+
+With these issues worked around, `arknights_cn` 79.0.0 was installed and
+launched with TwintailLauncher 2.5.3 and `11.0-20261015-proton-cachyos`: all
+14,021 files matched the package CRCs, and the game finished its in-game
+resource update and reached the voice pack selection. `arknights_bilibili`
+uses the same package format.
+
+Repository URL:
 
 ```
 https://github.com/ParticleG/twintail-cn-manifests.git
 ```
-
-TwintailLauncher clones the repository and fetches `main` on later starts.
 
 ## How the manifests are built
 
