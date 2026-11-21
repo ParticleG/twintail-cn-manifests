@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "display_name": "Arknights (CN Bilibili)",
+  "biz": "arknights_bilibili",
+  "latest_version": "79.0.0",
+  "game_versions": [
+    {
+      "metadata": {
+        "versioned_name": "Arknights 79.0.0 (CN Bilibili)",
+        "version": "79.0.0",
+        "download_mode": "DOWNLOAD_MODE_FILE",
+        "game_hash": "",
+        "index_file": "",
+        "res_list_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/files",
+        "diff_list_url": {
+          "game": "",
+          "en_us": "",
+          "zh_cn": "",
+          "ja_jp": "",
+          "ko_kr": ""
+        }
+      },
+      "assets": {
+        "game_icon": "https://cdn2.steamgriddb.com/icon_thumb/7298332f04ac004a0ca44cc69ecf6f6b.png",
+        "game_background": "https://hg-utils-public.hycdn.cn/hg-utils/prod/eppcsuwqpaueijqk/GzD1CpaWgmSq1wew/d9/ee/d9ee5d72874140cc2a3b0c3d5a3ffb52.png",
+        "game_live_background": ""
+      },
+      "game": {
+        "full": [
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.001",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ee50d96abbc87478c6d7e85c77e41217",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.002",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "34166a43bb5f8e9191e81b0f94278147",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.003",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "4948a92291785befccf857dbb804b4c9",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.004",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ba276810f23f2382c9f7b7a5cec70f02",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.005",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ff6ccfbf73509799140d3b0f1d588dad",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.006",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "34e5a336b7c872c10add401f3cbb5494",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.007",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "c26d07431eddeec32b89771f48f193b0",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.008",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "56738894a28c3c6f2249d91248e7a0ff",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.009",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "5e1291b8d654527b057e11afd14abd32",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.010",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "72b5169c56e346c360354892cccc5c9c",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.011",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "e46787b03497f8fa44f22b6c0660307b",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.012",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ec10eaf71d8dab399be8e19886e2e661",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.013",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "8313f9eaa45cf8dd20463bdafd3765ef",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.014",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "103036afef33d1f401309692284048a2",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.015",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "22e06aca463635bcbf464cb01e6087b1",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.016",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "734720174365f78a7c00755453390f59",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.017",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "da50d1d52066926ee5b991dd3ad7d567",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.018",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "e3bfd65370286bc2bbead6d28eba6958",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.019",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "2cba634ac357d6db40906f883836b769",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.020",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "0daef7ad1d7ce0e3e7cc828377a52031",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/2/2/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-bilibili.zip.021",
+            "compressed_size": "517197155",
+            "decompressed_size": "517197155",
+            "file_hash": "4ccb9470f7536cac695da3d150575960",
+            "file_path": "",
+            "region_code": ""
+          }
+        ],
+        "diff": []
+      },
+      "audio": {
+        "full": [],
+        "diff": []
+      }
+    }
+  ],
+  "paths": {
+    "audio_pkg_res_dir": "",
+    "exe_filename": "Arknights.exe",
+    "installation_dir": "",
+    "screenshot_dir": "",
+    "screenshot_dir_relative_to": "game_dir"
+  },
+  "assets": {
+    "game_icon": "https://cdn2.steamgriddb.com/icon_thumb/7298332f04ac004a0ca44cc69ecf6f6b.png",
+    "game_background": "https://hg-utils-public.hycdn.cn/hg-utils/prod/eppcsuwqpaueijqk/GzD1CpaWgmSq1wew/d9/ee/d9ee5d72874140cc2a3b0c3d5a3ffb52.png",
+    "game_live_background": ""
+  },
+  "telemetry_hosts": [],
+  "extra": {
+    "fps_unlock_options": [
+      "120"
+    ],
+    "graphics_api_options": {
+      "default": "-force-d3d11",
+      "options": [
+        {
+          "value": "-force-d3d11",
+          "name": "DirectX 11"
+        },
+        {
+          "value": "-force-d3d12",
+          "name": "DirectX 12"
+        }
+      ]
+    },
+    "switches": {
+      "fps_unlocker": false,
+      "jadeite": false,
+      "xxmi": false,
+      "graphics_api": true
+    },
+    "compat_overrides": {
+      "install_to_prefix": false,
+      "disable_protonfixes": true,
+      "protonfixes_id": "",
+      "protonfixes_store": "",
+      "stub_wintrust": false,
+      "block_first_req": false,
+      "proton_compat_config": [
+        "noxalia"
+      ],
+      "override_runner": {
+        "linux": {
+          "enabled": false,
+          "runner_version": ""
+        },
+        "macos": {
+          "enabled": false,
+          "runner_version": ""
+        }
+      },
+      "min_runner_versions": [],
+      "winetricks_verbs": []
+    },
+    "steam_import_config": {
+      "enabled": false,
+      "steam_appid_txt": "",
+      "steam_api_dll": ""
+    },
+    "preload": {}
+  }
+}

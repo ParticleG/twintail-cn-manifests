@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "display_name": "Arknights (CN Official)",
+  "biz": "arknights_cn",
+  "latest_version": "79.0.0",
+  "game_versions": [
+    {
+      "metadata": {
+        "versioned_name": "Arknights 79.0.0 (CN Official)",
+        "version": "79.0.0",
+        "download_mode": "DOWNLOAD_MODE_FILE",
+        "game_hash": "",
+        "index_file": "",
+        "res_list_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/files",
+        "diff_list_url": {
+          "game": "",
+          "en_us": "",
+          "zh_cn": "",
+          "ja_jp": "",
+          "ko_kr": ""
+        }
+      },
+      "assets": {
+        "game_icon": "https://cdn2.steamgriddb.com/icon_thumb/7298332f04ac004a0ca44cc69ecf6f6b.png",
+        "game_background": "https://hg-utils-public.hycdn.cn/hg-utils/prod/eppcsuwqpaueijqk/GzD1CpaWgmSq1wew/53/a2/53a2be88a3371a1473ecd41e89fb0ad5.png",
+        "game_live_background": ""
+      },
+      "game": {
+        "full": [
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.001",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "5abdf2176cef00825ac4d92bbb9ea5e6",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.002",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "c7f3373be272a2ea041b2d73f3b98381",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.003",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "f110c5f39ccf322819d39a569802de20",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.004",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "7a73cbbcdb585e9ba572fdcb41a8bfa1",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.005",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "17c4e2833ac6aff8902887e7a0b7f2e3",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.006",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ae26f544051b1641f48806daae05d4d8",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.007",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "3f4f61b1a3fdcb5dffed76dd966232b8",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.008",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "7a691980df9e0e829dacf7dec4d9e08d",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.009",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "a74899945ad158b359050dc65aec17fa",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.010",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "7ffc924088f7461ec2c789eea2a264f8",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.011",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "0e98d4781d28a41332e6e1c93b47902a",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.012",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "0db762e6406a9469c90d28b2b08c9db8",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.013",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "ba68da2217ccdef9f229e6211a28ecc3",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.014",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "72da0994580e4c02a737ed3190fe58c7",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.015",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "1d2f984b09f380b5c23eaa72854feddd",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.016",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "f2c6b56de6df2e58bce502daf054f273",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.017",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "f0409542f17a04d1a7607271d4c69e78",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.018",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "f9e7a511e3c3adfd0ddba946bfdab699",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.019",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "72e9b24daab09867fb908fbba95aa0bd",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.020",
+            "compressed_size": "1073741824",
+            "decompressed_size": "1073741824",
+            "file_hash": "72a8b88dba491810aa979e1e5b58f47f",
+            "file_path": "",
+            "region_code": ""
+          },
+          {
+            "file_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/update/1/1/Windows/79.0.0_R4C8v7EmosKsRK1Q/packs/production_079-79.0.0-f5c85b0da30-54-HG.zip.021",
+            "compressed_size": "438039777",
+            "decompressed_size": "438039777",
+            "file_hash": "c24168136e6592ba2b49e26293ed46d2",
+            "file_path": "",
+            "region_code": ""
+          }
+        ],
+        "diff": []
+      },
+      "audio": {
+        "full": [],
+        "diff": []
+      }
+    }
+  ],
+  "paths": {
+    "audio_pkg_res_dir": "",
+    "exe_filename": "Arknights.exe",
+    "installation_dir": "",
+    "screenshot_dir": "",
+    "screenshot_dir_relative_to": "game_dir"
+  },
+  "assets": {
+    "game_icon": "https://cdn2.steamgriddb.com/icon_thumb/7298332f04ac004a0ca44cc69ecf6f6b.png",
+    "game_background": "https://hg-utils-public.hycdn.cn/hg-utils/prod/eppcsuwqpaueijqk/GzD1CpaWgmSq1wew/53/a2/53a2be88a3371a1473ecd41e89fb0ad5.png",
+    "game_live_background": ""
+  },
+  "telemetry_hosts": [],
+  "extra": {
+    "fps_unlock_options": [
+      "120"
+    ],
+    "graphics_api_options": {
+      "default": "-force-d3d11",
+      "options": [
+        {
+          "value": "-force-d3d11",
+          "name": "DirectX 11"
+        },
+        {
+          "value": "-force-d3d12",
+          "name": "DirectX 12"
+        }
+      ]
+    },
+    "switches": {
+      "fps_unlocker": false,
+      "jadeite": false,
+      "xxmi": false,
+      "graphics_api": true
+    },
+    "compat_overrides": {
+      "install_to_prefix": false,
+      "disable_protonfixes": true,
+      "protonfixes_id": "",
+      "protonfixes_store": "",
+      "stub_wintrust": false,
+      "block_first_req": false,
+      "proton_compat_config": [
+        "noxalia"
+      ],
+      "override_runner": {
+        "linux": {
+          "enabled": false,
+          "runner_version": ""
+        },
+        "macos": {
+          "enabled": false,
+          "runner_version": ""
+        }
+      },
+      "min_runner_versions": [],
+      "winetricks_verbs": []
+    },
+    "steam_import_config": {
+      "enabled": false,
+      "steam_appid_txt": "",
+      "steam_api_dll": ""
+    },
+    "preload": {}
+  }
+}

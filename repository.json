@@ -1,0 +1,9 @@
+{
+  "name": "Arknights CN manifests",
+  "description": "Third-party TwintailLauncher manifests for the Arknights CN official and Bilibili servers.",
+  "maintainers": ["ParticleG"],
+  "manifests": [
+    "arknights_cn.json",
+    "arknights_bilibili.json"
+  ]
+}
