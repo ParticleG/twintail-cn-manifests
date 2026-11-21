@@ -8,9 +8,12 @@ game manifests for the Chinese Arknights servers:
 | `arknights_cn.json` | CN Official (Hypergryph) | `arknights_cn` |
 | `arknights_bilibili.json` | CN Bilibili | `arknights_bilibili` |
 
-TwintailTeam does not plan to support Chinese game clients, so this repository
-is maintained separately. Report problems with these manifests here, not to
-TwintailTeam.
+TwintailLauncher 2.x does not support Chinese game clients. Its maintainer has
+said that 3.0 will
+([TwintailTeam/TwintailLauncher#379](https://github.com/TwintailTeam/TwintailLauncher/issues/379));
+until then this repository is maintained separately, and it will stop being
+maintained once the official launcher supports these servers. Report problems
+with these manifests here, not to TwintailTeam.
 
 ## Usage
 
