@@ -12,28 +12,25 @@ TwintailTeam does not plan to support Chinese game clients, so this repository
 is maintained separately. Report problems with these manifests here, not to
 TwintailTeam.
 
-## Status
+## Usage
 
-Stock TwintailLauncher 2.5.3 cannot use third-party game repositories yet:
+Stock TwintailLauncher 2.5.3 cannot use third-party game repositories: it has
+no way to add one, never updates them, and lists no games at all once a second
+game repository exists
+([TwintailTeam/TwintailLauncher#379](https://github.com/TwintailTeam/TwintailLauncher/issues/379)).
+Use [TwintailLauncher-CN](https://github.com/ParticleG/TwintailLauncher-CN),
+a fork that carries only the fixes for these issues:
 
-- No screen calls the backend's `add_repository` command, so a repository
-  cannot be added from the launcher.
-- The "update third-party repositories" setting is stored but never read, so
-  added repositories are never fetched again.
-- With a second game repository present, building the game list throws a
-  `TypeError` in the frontend and no games are listed, official ones included.
+1. Install `twintaillauncher-cn` from the AUR, or build the fork.
+2. Open **Repositories** in the sidebar, choose **+**, and enter
+   `ParticleG/twintail-cn-manifests`.
+3. In **Settings → General**, turn on **Auto-update 3rd Party Repos** so new
+   game versions are fetched when the launcher starts.
 
-With these issues worked around, `arknights_cn` 79.0.0 was installed and
-launched with TwintailLauncher 2.5.3 and `11.0-20261015-proton-cachyos`: all
-14,021 files matched the package CRCs, and the game finished its in-game
-resource update and reached the voice pack selection. `arknights_bilibili`
-uses the same package format.
-
-Repository URL:
-
-```
-https://github.com/ParticleG/twintail-cn-manifests.git
-```
+`arknights_cn` 79.0.0 was installed and launched with TwintailLauncher 2.5.3
+and `11.0-20261015-proton-cachyos`: all 14,021 files matched the package
+CRCs, and the game finished its in-game resource update and reached the voice
+pack selection. `arknights_bilibili` uses the same package format.
 
 ## How the manifests are built
 
@@ -49,11 +46,13 @@ that have not been updated yet keep working.
 
 ## Limitations
 
-- **Updates download the full package.** TwintailLauncher applies
+- **Updates download the full package.** Stock TwintailLauncher applies
   `DOWNLOAD_MODE_FILE` differential patches only for `endfield_global` and
-  marks updates of any other game that lists patches as failed. The manifests
-  therefore list no patches, and each client update downloads the full package
-  (about 22 GB) and needs about 48 GB of free space while it is extracted.
+  marks updates of any other game that lists patches as failed. The fork
+  selects patches by `diff_type`, but Arknights CN patches have not been
+  tested with it yet, so the manifests list no patches. Each client update
+  downloads the full package (about 22 GB) and needs about 48 GB of free
+  space while it is extracted.
 - Repairs also download the full package.
 - Launch and compatibility settings are copied from the official
   `arknights_global` manifest.
